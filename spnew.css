@@ -6,17 +6,11 @@
 
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      background: #e9ecef;
+      background: black;
       padding: 5px;
 	  min-height: 100vh;
       height: auto;
 	  overflow-y: visible;
-background-image: url('https://www.bing.com/th/id/OGC.1226a417af2bc756a9f35250e0560f0d?pid=1.7&rurl=http%3a%2f%2fimg95.699pic.com%2fphoto%2f40144%2f1887.gif_wh860.gif&ehk=jfKCyvCwAwWT42Xs2WIFQY8pxvXmbTTYeh0NGwdnLM4%3d');
-background-size: cover;
-background-position: center;
-background-repeat: no-repeat;
-background-attachment: fixed;
-margin: 0;
     }
 
     .app-desktop {
@@ -113,3 +107,4 @@ width:100%;
       }
 
     }
+
