@@ -21,23 +21,6 @@ html, body {
       height: auto;
 	  overflow-y: visible;
     }
-.hero {
-  position: relative;
-  height: 100vh;
-  overflow: hidden;
-}
-
-.hero::before {
-  content: '';
-  position: absolute;
-  top: 0; left: 0; right: 0; bottom: 0;
-  background: url("https://www.bing.com/th/id/OGC.1226a417af2bc756a9f35250e0560f0d?pid=1.7&rurl=http%3a%2f%2fimg95.699pic.com%2fphoto%2f40144%2f1887.gif_wh860.gif&ehk=jfKCyvCwAwWT42Xs2WIFQY8pxvXmbTTYeh0NGwdnLM4%3d") no-repeat center center fixed;
-  background-size: cover;
-  background-position: center;
-  transform: translateZ(0);
-  will-change: transform;
-  z-index: -1;
-}
     .app-desktop {
       display: grid;
       grid-template-columns: repeat(5, 1fr);
@@ -132,5 +115,6 @@ width:100%;
       }
 
     }
+
 
 
