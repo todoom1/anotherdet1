@@ -117,10 +117,11 @@ width:100%;
   margin: 20px 6px;
  font-size: 55px;
   text-align:center;
-  color: gold;}
+  color: white;}
 .sjb {
 display:block;width: 100%;background-image: url('./sjb.jpg');border-radius:10px; background-size: cover;padding:30px;
 margin: 10px 0px;}
+
 
 
 
